@@ -2,7 +2,7 @@
 %global pname ruamel-yaml
 %global commit f29921d2048e
 
-%global with_python3 1
+%global with_python3 0
 
 Name:           python-%{pname}
 Version:        0.13.14
